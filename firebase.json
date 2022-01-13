@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "eliud",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
